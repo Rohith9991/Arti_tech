@@ -1,2 +1,2 @@
-# Arti_tech
-FOR ART &amp; TECH
+# Number guesser game for Begginers
+
